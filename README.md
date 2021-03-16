@@ -6,4 +6,4 @@ proud netizen! here are my interests
 - 🐧 Unixy stuff
 - 🧀 cheese
 
-![](me-and-my-child.jpg)
+![](me-and-my-child.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
