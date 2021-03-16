@@ -7,3 +7,5 @@ proud netizen! here are my interests
 - 🎸 Indie web
 - 🐧 Unixy stuff
 - 🧀 cheese
+
+checkout my website at [plainoldcheese.xyz](https://plainoldcheese.xyz/)
