@@ -1,3 +1,4 @@
+<img src="me-and-my-child.jpg" align="right">
 proud netizen! here are my interests
 
 - 📜 Document formatting
@@ -5,8 +6,3 @@ proud netizen! here are my interests
 - 🎸 Indie web
 - 🐧 Unixy stuff
 - 🧀 cheese
-
-
-<br clear="right"/>
-
-<img src="me-and-my-child.jpg" align="right">
