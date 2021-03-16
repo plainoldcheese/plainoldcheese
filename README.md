@@ -3,4 +3,4 @@
 - 🎸 Indie web
 - 🧀 cheese
 
-![]()
+![](me.jpg)
