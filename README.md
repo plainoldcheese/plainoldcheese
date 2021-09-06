@@ -2,10 +2,9 @@
 
 proud netizen! here are my interests
 
-- 📜 Document formatting
-- 🌐 Internet privacy
-- 🎸 Indie web
-- 🐧 Unixy stuff
+- 🎸 smol web
+- 🐧 unixy stuff
+- 🎹 music
 - 🧀 cheese
 
 checkout my website at [plainoldcheese.xyz](https://plainoldcheese.xyz/)
