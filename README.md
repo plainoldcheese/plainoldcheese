@@ -7,7 +7,7 @@ proud netizen! here are my interests
 - 🎹 music
 - 🧀 cheese
 
-Checkout my website at [plainoldcheese.github.io](https://plainoldcheese.github.io/), and I'm also on mastodon now <a rel="me" href="https://masto.ai/@plainoldcheese">plainoldcheese@masto.ai</a>.
+Checkout my website at [plainoldcheese.neocities.org](https://plainoldcheese.neocities.org/), and I'm also on mastodon now <a rel="me" href="https://masto.ai/@plainoldcheese">plainoldcheese@masto.ai</a>.
 
 <footer>
    <div align="center">
